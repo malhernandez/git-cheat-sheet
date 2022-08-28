@@ -1,6 +1,4 @@
-# git-cheat-sheet
-
-this is an edit
+## git-cheat-sheet
 
 # git work flow
 
@@ -40,5 +38,15 @@ git add filename
 git commit -m "descriptionofchange"
 ```
 
+9. see commit in git history 
+```
+git log
+```
 
+10. push the change to your fork  (default name origin for your fork)
+```
+git push origin branchname
+```
+
+11. at this point, your changes are in the fork repo and you can go the UI to create a Pull Request. 
 
