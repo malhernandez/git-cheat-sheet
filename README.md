@@ -1,5 +1,10 @@
 ## git-cheat-sheet
 
+# how to check current branch
+```
+git branch
+```
+
 # git work flow
 
 1. fork the repo via the UI. 
