@@ -1,5 +1,10 @@
 ## git-cheat-sheet
 
+# check for configured remotes
+A remote points to a specific github repo and can be found in .git/config in a given repo. 
+```git remote
+```
+
 # how to check current branch
 ```
 git branch
